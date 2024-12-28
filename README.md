@@ -23,6 +23,7 @@ Browse our ever-growing list of tools below!
 | MidJourney            | AI-powered image generation from text prompts.       | [Visit](https://www.midjourney.com/) |  
 | Notion AI            | AI assistant for productivity and organization.       | [Visit](https://www.notion.so/) |  
 | Runway ML            | Creative AI for video and image editing.              | [Visit](https://runwayml.com/) |  
+| Diagram GPT            | AI to make your technical or architectural diagram easy               | [Visit](https://www.eraser.io/diagramgpt) |  
 
 *...and more to come!*
 

@@ -39,7 +39,7 @@ Found an AI tool that blew your mind? Share it here!
    Add your tool to the **Tools Directory** table above with a short description and the link.  
 3. **Submit a Pull Request**  
    Submit a PR with your changes. Make sure to follow the template below.
-4. **(Optional)Comment in PR**  
+4. **Comment in PR (Optional)**  
   If you add a detailed comment in your PR about the tool, it would be a courtesy.
 
 

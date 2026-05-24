@@ -23,6 +23,7 @@ Browse our ever-growing list of tools below!
 | **MidJourney**        | AI-powered image generation from text prompts.                                | [Visit](https://www.midjourney.com/) |  
 | **Notion AI**         | AI assistant for productivity and organization.                               | [Visit](https://www.notion.so/) |  
 | **Runway ML**         | Creative AI for video and image editing.                                      | [Visit](https://runwayml.com/) |  
+| **LandscapioAI**     | AI landscape design generator that creates yard visualizations, planting guidance, project zones, and cost estimates. | [Visit](https://www.landscapioai.com/) |  
 | **Diagram GPT**       | AI to simplify the creation of technical or architectural diagrams.           | [Visit](https://www.eraser.io/diagramgpt) |  
 | **Copy.ai**           | AI-driven content generator for marketing copy.                               | [Visit](https://www.copy.ai/) |  
 | **Jasper**            | AI content platform for creating blogs, ads, and social media posts.          | [Visit](https://www.jasper.ai/) |  

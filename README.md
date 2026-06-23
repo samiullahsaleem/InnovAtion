@@ -37,6 +37,7 @@ Browse our ever-growing list of tools below!
 | **DeepL Translator**  | AI-based translation service offering high-quality translations.              | [Visit](https://www.deepl.com/translator) |  
 | **Replika**           | AI companion designed to engage in meaningful conversations.                  | [Visit](https://replika.ai/) |  
 | **AI Dungeon**        | AI-generated text adventure game for creating and exploring stories.          | [Visit](https://play.aidungeon.io/) |  
+| **Auferet**        | AI game master for solo text adventures and tabletop RPGs that remembers your story and reads your own uploaded lore. | [Visit](https://auferet.com/) |
 | **Artbreeder**        | AI tool for creating and editing images using machine learning.               | [Visit](https://www.artbreeder.com/) |  
 | **Talk to Books**     | Google’s AI experiment to explore ideas and discover books through dialogue.  | [Visit](https://books.google.com/talktobooks/) |  
 | **Socratic by Google**| AI-powered educational app to help students with homework questions.          | [Visit](https://socratic.org/) |  

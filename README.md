@@ -32,7 +32,8 @@ Browse our ever-growing list of tools below!
 | **Grammarly**         | AI-powered writing assistant for grammar and spell checking.                  | [Visit](https://www.grammarly.com/) |  
 | **Lumen5**            | AI video creation platform that turns text content into engaging videos.      | [Visit](https://lumen5.com/) |  
 | **Descript**          | AI-powered video and audio editing tool with transcription capabilities.      | [Visit](https://www.descript.com/) |  
-| **Pictory**           | AI tool that transforms text content into short, shareable videos.            | [Visit](https://pictory.ai/) |  
+| **Pictory**           | AI tool that transforms text content into short, shareable videos.            | [Visit](https://pictory.ai/) |
+| **videos.social**     | Turns blogs, PDFs, and prompts into editable faceless videos.                 | [Visit](https://videos.social/?utm_source=samiullahsaleem-innovation&utm_medium=directory&utm_campaign=listing-wave-d) |  
 | **Writesonic**        | AI writer that helps create SEO-optimized content for blogs and ads.          | [Visit](https://writesonic.com/) |  
 | **DeepL Translator**  | AI-based translation service offering high-quality translations.              | [Visit](https://www.deepl.com/translator) |  
 | **Replika**           | AI companion designed to engage in meaningful conversations.                  | [Visit](https://replika.ai/) |  

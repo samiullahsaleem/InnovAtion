@@ -194,6 +194,7 @@ Browse our ever-growing list of tools below!
 | **Desilo**                | AI tool for digital asset management and collaboration.                    | [Visit](https://www.desilo.com/) |  
 | **Folloze**               | AI-powered platform for creating personalized marketing campaigns.         | [Visit](https://www.folloze.com/) |  
 | **Mutiny**                | AI platform for website personalization to convert more leads.             | [Visit](https://www.mutinyhq.com/) |  
+| **Pulse**                 | AI-moderated market research platform that runs customer interviews at scale. | [Visit](https://pulsecorp.co) |  
 
 
 

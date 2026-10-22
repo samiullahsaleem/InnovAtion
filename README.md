@@ -155,6 +155,7 @@ Browse our ever-growing list of tools below!
 | **NovelAI**               | AI tool for creating stories, poetry, and RPG adventures.                   | [Visit](https://novelai.net/) |  
 | **Sudowrite**             | AI writing assistant for fiction and creative writing.                      | [Visit](https://www.sudowrite.com/) |  
 | **ShortlyAI**             | AI-powered writing assistant for short-form content and stories.            | [Visit](https://shortlyai.com/) |  
+| **ImagineYourBook**      | AI book-writing app that outlines a full novel or nonfiction book and drafts it chapter by chapter for the author to edit. | [Visit](https://www.imagineyourbook.com/) |  
 | **Poised**                | AI communication coach for improving public speaking skills.                 | [Visit](https://poised.com/) |  
 | **Speeko**                | AI app for training and improving communication skills.                     | [Visit](https://www.speeko.co/) |  
 | **Vocalytics**            | AI-powered speech analysis tool for voice training.                         | [Visit](https://vocalytics.ai/) |  

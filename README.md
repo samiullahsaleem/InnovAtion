@@ -196,6 +196,7 @@ Browse our ever-growing list of tools below!
 | **Folloze**               | AI-powered platform for creating personalized marketing campaigns.         | [Visit](https://www.folloze.com/) |  
 | **Mutiny**                | AI platform for website personalization to convert more leads.             | [Visit](https://www.mutinyhq.com/) |  
 | **Pulse**                 | AI-moderated market research platform that runs customer interviews at scale. | [Visit](https://pulsecorp.co) |  
+| **deed.page**             | Hosting for AI agents: an agent publishes the HTML or folder it built to a live HTTPS link with one request or through MCP, no signup. | [Visit](https://deed.page/) |
 
 
 
